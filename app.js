@@ -1,4 +1,12 @@
 
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/Jannat066/lesson6a.git
+// git push -u origin main
+
+
 const url = 'https://api.sampleapis.com/movies/'
 
 const genres = ['animation', 'classic', 'comedy', 'drama', 'horror', 'family', 'mystery', 'scifi-fantasy', 'western']
@@ -42,13 +50,3 @@ buttons.forEach((btn) => {
 })
 
 
-
-/*
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Jannat066/lesson6a.git
-git push -u origin main
-
-/*
